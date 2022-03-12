@@ -14,7 +14,7 @@
 			}
 		],
 		"dateAdded": 0,
-		"dateLastModified": 1638814587
+		"dateLastModified": 1638814588
 	},
 	"legendaryGroup": [
 		{
@@ -44,7 +44,7 @@
 	"monster": [
 		{
 			"source": "GiddyCreature",
-			"name": "Oaken Bolter",
+			"name": "Oaken Bolter 2",
 			"size": "M",
 			"type": "construct",
 			"alignment": [
